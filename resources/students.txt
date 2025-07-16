@@ -1,0 +1,4 @@
+BCA4001,Sunil Jat,Ladu Lal Jat,Kali Devi,BCA,4 Sem,8690625461,Jattsunil82@gmail.com,Arniya Dist. Bhilwara 311801,N/A
+BCA4002,Mankhush Jat,Shankar Lal Jat,Kamla Devi,BCA,4 Sem,9983151875,mannuchoudhary751@gmail.com,Soniyana Dist. Rajsamand 313207,N/A
+BCA4003,Nikita Prajapat,Pushkar Ji Prajapat,xxxx,BCA,4 Sem,6377490084,nikita8234@gmail.com,Relmangra,N/A
+BCA4004,Kirti Chouhan,Pushkendra Sing,Chanchal Devi,BA + B.ED,1 Year,9024076957,kirti222@gmail.com,Gegpura,N/A
